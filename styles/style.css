@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+  font-family: "Bangers", cursive;
+  font-size: 1.5rem;
+  width: 100%;
+  background: #f8b500;
+  color: white;
+}
+
+#fizzbuzzer {
+  list-style-type: none;
+  margin: 0rem, auto;
+  margin-top: 2rem;
+  margin-left: 5rem;
+}
+
+.fizz {
+  color: red;
+}
+.buzz {
+  color: blue;
+}
+.fizzbuzz {
+  color: purple;
+}
+
+#gameTitle {
+  font-size: 4rem;
+}
+
+button {
+  width: 15rem;
+  height: 5rem;
+  font-size: 3rem;
+  background-color: red;
+  color: white;
+  font-family: "Bangers", cursive;
+  border-radius: 1rem;
+  margin-top: 2rem;
+  margin-left: 3rem;
+  margin-bottom: 2rem;
+}
