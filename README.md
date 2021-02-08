@@ -15,3 +15,7 @@
 2. Second,I've defined the button click event, which shows the list of numbers with their label (fizz, buzz, fizzbuzz) 
 
 3. Third, I added some CSS to style it
+
+
+## DEPLOY LINK
+[fizzbuzz](https://fizz-buzz-game.netlify.app/)
